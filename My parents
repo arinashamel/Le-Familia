@@ -1,0 +1,30 @@
+<DOCTYPE html>
+<html>
+<head>
+  <title>Neesya's parents</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>My Parents</h1>
+
+<hr>
+
+<h2>Mi Fadre</h2>
+
+<img src="photo/roslan.jpg" alt="Khairy Shamel">
+
+<p>His name is Khairy Shamel. He is 47 years old and works as an ophtalmologist at HUSM
+
+<h2>Mi Madre</h2>
+
+<img src="photo/hafiza.jpg" alt="Fairoz">
+
+<p>Her name is Fairoz. I love her very much 
+<a href="index.html">Back to home</a> <br>
+<a href="siblings.html">The Sisters</a> <br>
+<a href="pets.html">Our pets</a> <br>
+<a href="familypictures.html">Photo album</a> 
+
+</body>
+</html>
