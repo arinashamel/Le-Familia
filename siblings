@@ -1,39 +1,33 @@
 <DOCTYPE html>
 <html>
 <head>
-  <title>Neesya's Siblings</title>
+  <title>The Sisters</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-<h1>&ltNeesya's siblings&gt</h1>
+<h1>Th Sisters</h1>
 
 <hr>
 
-<h2>Nor Neesya Aleeya</h2>
+<h2>Arina Nashwa</h2>
 
 <img src="photo/nurinnadhirah.jpg" alt="Nurin Nadhirah photo">
 
-<p>I am the eldest. A little stubborn but very caring and loving.</p>
+<p>The eldest out of three. Likes watching movies</p>
 
-<h2>Nor Nazmeen Aleesya</h2>
+<h2>Sofia Hani</h2>
 
 <img src="photo/hafizhakimi.jpg" alt="Hafiz Hakimi photo">
 
-<p>The second child. She always records herself, doing lots of poses and do make ups almost every day. It is quite entertaining with her around.</p>
+<p>The middle child.Into dancing and stuff. Artistic</p>
 
-<h2>Nor Hylman Haqeemie</h2>
+<h2>Dhia Inara</h2>
 
 <img src="photo/damia.jpg" alt="Nurdamia photo">
 
-<p>The second youngest. Loves to play football and also games on his iPad, especially Mobile Legends. </p>
+<p>The youngest (bongsu). Spoiled child, has bongsu privilege, but very caring </p>
 
-<h2>Nor Hylmie Huzaiman</h2>
-
-<img src="photo/khaira.jpg" alt="Khaira Balqis photo">
-
-<p>The youngest of the family. He and his brother cannot be separated; they always go together. While they may fight here and there, they will always make up for it.</p>
- 
 <a href="index.html">Back to home</a> <br>  
 <a href="parents.html">My parents</a> <br>
 <a href="pets.html">Our pets</a> <br>
