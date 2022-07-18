@@ -1,0 +1,27 @@
+<DOCTYPE html>
+<html>
+<head>
+
+  <title>Le Familia</title>
+  <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+
+<h1 "style=text-align:center;">Le Familia<b><i></h1>
+
+<hr><br>
+
+<img src="photo/familycover.jpg" alt="Photo of our family">
+
+<p>Hi! This is my family! We're currently living in Kota Bharu, Kelantan </p>
+
+<h2>My family members&#10084;</h2>
+  
+<a href="parents.html">My parents</a> <br>
+<a href="siblings.html">The sisters</a> <br>
+<a href="pets.html">Our Pets</a> <br>
+<a href="familypictures.html">wall of fame</a> 
+
+</body>
+</html>
