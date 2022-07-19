@@ -1,0 +1,51 @@
+<DOCTYPE html>
+<html>
+<head>
+  <title>The Pets</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Our Pets<b><i></h1>
+
+<hr>
+
+<Div="text-align:center"
+<h2>Meow<b></h2>
+
+<img src="C:\Users\A S U S\Downloads\photo_2022-07-19_22-39-31.jpg" alt="Photo of meow">
+
+<p>Mother to 3 kittens. Doesn't really like to be petted but a very polite feline</p>
+
+<h2>Blacky<b></h2>
+
+<img src="C:\Users\A S U S\OneDrive\Desktop\photos\photo_2022-02-22_18-35-57.jpg"="Photo of blacky">
+
+<p>Extremely spoilt. Likes to sleep on people and knead. Loud</p>
+
+<h2>Oyeng<b></h2>
+
+<img src="C:\Users\A S U S\Downloads\Telegram Desktop\photo_2022-07-19_22-33-25.jpg"="Photo of oyeng">
+
+<p>Meow's first child. Active. Always jumping</p>
+
+<h2>Oreo<b></h2>
+  
+<img src="C:\Users\A S U S\Downloads\Telegram Desktop\photo_2022-07-19_22-33-22.jpg"="Oreo the cat">
+
+<p>Meow's second kitten.Still scared of people most of the time.</p>
+ 
+<h2>Bear<b></h2>
+
+<img src="C:\Users\A S U S\Downloads\Telegram Desktop\photo_2022-07-19_22-33-28.jpg"alt="Photo of bear">
+
+<p>The last kitten. Likes milk very much. Always meowing for milk.</p>
+</Div>
+ 
+<a href="index.html">Back to home</a> <br>
+<a href="parents.html">My parents</a> <br>
+<a href="siblings.html">My siblings</a> <br>
+<a href="familypictures.html">Photo album</a> 
+
+</body>
+</html>
