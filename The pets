@@ -10,8 +10,7 @@
 
 <hr>
 
-<Div="text-align:center"
-<h2>Meow<b></h2>
+<h2>Meow<b></h2><br>
 
 <img src="C:\Users\A S U S\Downloads\photo_2022-07-19_22-39-31.jpg" alt="Photo of meow">
 
@@ -40,7 +39,6 @@
 <img src="C:\Users\A S U S\Downloads\Telegram Desktop\photo_2022-07-19_22-33-28.jpg"alt="Photo of bear">
 
 <p>The last kitten. Likes milk very much. Always meowing for milk.</p>
-</Div>
  
 <a href="index.html">Back to home</a> <br>
 <a href="parents.html">My parents</a> <br>
