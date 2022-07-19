@@ -1,0 +1,25 @@
+<DOCTYPE html>
+<html>
+<head>
+  <title>Photo Album</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  
+<h1>picssss</h1>\
+ 
+<hr>
+  
+<h3>Pictures of us..and other things</h3>
+  
+<img src="C:\Users\A S U S\OneDrive\Desktop\photos\photo_2020-03-26_02-45-46.jpg" alt="Photo of my family"><br>
+<img src="C:\Users\A S U S\OneDrive\Desktop\photos\photo_2020-03-26_02-38-08.jpg" alt="Photo of my family"><br>
+<img src="C:\Users\A S U S\OneDrive\Desktop\photos\photo_2020-03-26_02-52-23.jpg" alt="Photo of my family"><br>
+<img src="C:\Users\A S U S\OneDrive\Desktop\photos\photo_2020-03-25_23-44-44.jpg"alt="Photo of my family"><br>
+
+<a href="parents.html">My parents</a> <br>
+<a href="siblings.html">My siblings</a> <br>
+<a href="pets.html">Our pets</a>
+  
+  </body>
+  </html>
