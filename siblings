@@ -6,7 +6,8 @@
 </head>
 <body>
 
-<h1>Th Sisters</h1>
+<div style="text-align:center"
+<h1>The Sisters</h1>
 
 <hr>
 
@@ -28,6 +29,7 @@
 <img src=""C:\Users\A S U S\OneDrive\Desktop\photos\photo_2021-05-13_15-20-10.jpg"alt="Dhia photo">
 
 <p>The youngest (bongsu). Spoiled child, has bongsu privilege, but very caring </p>
+</div>
 
 <a href="index.html">Back to home</a> <br>  
 <a href="parents.html">My parents</a> <br>
